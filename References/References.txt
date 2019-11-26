@@ -1,2 +1,3 @@
 https://www.renderhub.com/max/student - Student Character 3D Model (concept)
 https://mb-lab-community.github.io/MB-Lab.github.io/ - MB LAB
+https://blender101.com/how-to-add-background-images-in-blender-2-8/ - How to Add Background Images in Blender 2.8
